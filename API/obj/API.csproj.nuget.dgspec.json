@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\API.csproj": {}
+    "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\API.csproj": {
+    "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\API.csproj",
+        "projectPath": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\vasanth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\obj\\",
+        "outputPath": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,6 +46,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
