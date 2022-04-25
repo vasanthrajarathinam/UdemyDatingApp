@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\API.csproj": {}
+    "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\API.csproj": {
+    "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\vasanth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\vasanth\\source\\repos\\UdemyDatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
