@@ -1,5 +1,13 @@
- dotnet dev-certs https --trust
+dotnet dev-certs https --trust
 
 dotnet ef migrations add InitialCreate -o Data/Migrations
 
 dotnet ef database update
+
+
+
+npm install font-awesome
+
+ng add ngx-bootstrap@7.1.0
+
+HMACSHA512
